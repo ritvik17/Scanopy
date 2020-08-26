@@ -1,0 +1,2 @@
+# Scanopy
+Document Scanner App
